@@ -1816,7 +1816,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7cd0ff;
+  background: #2ac6ff;
 }
 .feed-link,
 .chat {
@@ -3053,7 +3053,7 @@ ul.breadcrumb li+li:last-child {
   background-color: rgba(0,0,0,0.1);
 }
 .header {
-  background: url("http://ww2.sinaimg.cn/large/006tNc79ly1g35luzxjefj30rs05pwer.jpg");
+  background: url("http://ww3.sinaimg.cn/large/006tNc79ly1g3p31r87psj31hc0ppac6.jpg");
   background-size: cover;
 }
 .header-inner {
@@ -3070,7 +3070,7 @@ ul.breadcrumb li+li:last-child {
   margin-top: 10px;
 }
 body {
-  background: url("http://ww3.sinaimg.cn/large/006tNc79ly1g35jbbqsazj30nb0fh4hl.jpg");
+  background: url("http://ww2.sinaimg.cn/large/006tNc79ly1g3p31upgg4j319d0u01kx.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
